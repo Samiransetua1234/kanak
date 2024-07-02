@@ -13,7 +13,7 @@ const Footer = () => {
         <div className='flex flex-wrap justify-between'>
           
           <div className='w-full md:w-1/4 lg:w-1/5 mb-6'>
-            <img src="/public/KanakLandscapeLogo.png" alt="kanak-logo" className='mb-4 w-full h-auto' />
+            <img src="/KanakLandscapeLogo.png" alt="kanak-logo" className='mb-4 w-full h-auto' />
             <p className='text-sm text-center leading-relaxed'>
               Kanak Drishti is a leading IT company that specializes in providing customized solutions for businesses. From web design to custom software development, our team of experts is committed to helping you achieve your goals. Contact us today to get started.
             </p>

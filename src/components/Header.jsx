@@ -20,7 +20,7 @@ const Header = () => {
     </div>   
     <Navbar fluid rounded className='px-4'>
       <Navbar.Brand href="https://www.kanakdrishtiinfotec.in/">
-        <img src="../../public/KanakLandscapeLogo.png" className="mr-3 h-6 sm:h-9" alt="Kanak Dristi Logo" />
+        <img src="/KanakLandscapeLogo.png" className="mr-3 h-6 sm:h-9" alt="Kanak Dristi Logo" />
       </Navbar.Brand>
       <div className="flex md:order-2">
         <Button color="blue">Contact Us</Button>

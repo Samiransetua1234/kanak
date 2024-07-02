@@ -11,7 +11,7 @@ const OurServices = () => {
           <div className='flip-card'>
             <div className='flip-card-inner'>
               <div className='flip-card-front top-0'>
-                <img src="../../public/it-solution.jpg" alt="service" className='w-full h-2/3 object-cover rounded-t-lg' />
+                <img src="/it-solution.jpg" alt="service" className='w-full h-2/3 object-cover rounded-t-lg' />
                 <h1 className='text-2xl font-bold mt-10'>UI / UX</h1>
               </div>
               <div className='flip-card-back px-4'>
@@ -24,7 +24,7 @@ const OurServices = () => {
           <div className='flip-card'>
             <div className='flip-card-inner'>
               <div className='flip-card-front top-0'>
-                <img src="../../public/it-solution.jpg" alt="service" className='w-full h-2/3 object-cover rounded-t-lg' />
+                <img src="/it-solution.jpg" alt="service" className='w-full h-2/3 object-cover rounded-t-lg' />
                 <h1 className='text-2xl font-bold mt-10'>Web / App Development</h1>
               </div>
               <div className='flip-card-back px-4'>
@@ -37,7 +37,7 @@ const OurServices = () => {
           <div className='flip-card'>
             <div className='flip-card-inner'>
               <div className='flip-card-front top-0'>
-                <img src="../../public/it-solution.jpg" alt="service" className='w-full h-2/3 object-cover rounded-t-lg' />
+                <img src="/it-solution.jpg" alt="service" className='w-full h-2/3 object-cover rounded-t-lg' />
                 <h1 className='text-2xl font-bold mt-10'>Digital Marketing</h1>
               </div>
               <div className='flip-card-back px-4'>
@@ -50,7 +50,7 @@ const OurServices = () => {
           <div className='flip-card'>
             <div className='flip-card-inner'>
               <div className='flip-card-front top-0'>
-                <img src="../../public/it-solution.jpg" alt="service" className='w-full h-2/3 object-cover rounded-t-lg' />
+                <img src="/it-solution.jpg" alt="service" className='w-full h-2/3 object-cover rounded-t-lg' />
                 <h1 className='text-2xl font-bold mt-10'>Graphic Designing</h1>
               </div>
               <div className='flip-card-back px-4'>
@@ -63,7 +63,7 @@ const OurServices = () => {
           <div className='flip-card'>
             <div className='flip-card-inner'>
               <div className='flip-card-front top-0'>
-                <img src="../../public/it-solution.jpg" alt="service" className='w-full h-2/3 object-cover rounded-t-lg' />
+                <img src="/it-solution.jpg" alt="service" className='w-full h-2/3 object-cover rounded-t-lg' />
                 <h1 className='text-2xl font-bold mt-10'>Customised Software Solutions</h1>
               </div>
               <div className='flip-card-back px-4'>
@@ -76,7 +76,7 @@ const OurServices = () => {
           <div className='flip-card'>
             <div className='flip-card-inner'>
               <div className='flip-card-front top-0'>
-                <img src="../../public/it-solution.jpg" alt="service" className='w-full h-2/3 object-cover rounded-t-lg' />
+                <img src="/it-solution.jpg" alt="service" className='w-full h-2/3 object-cover rounded-t-lg' />
                 <h1 className='text-2xl font-bold mt-10'>E-Commerce Solutions</h1>
               </div>
               <div className='flip-card-back px-4'>

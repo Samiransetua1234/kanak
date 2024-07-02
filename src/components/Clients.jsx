@@ -2,10 +2,10 @@ import React from 'react'
 import InfiniteMovingCards from './InfiniteMovingCards'
 
 const cards = [
-    { id: 1, image: "/public/client1.jpg" },
-    { id: 2, image: "/public/client2.jpg" },
-    { id: 3, image: "/public/client3.jpg" },
-    { id: 4, image: "/public/client4.jpg" },
+    { id: 1, image: "/client1.jpg" },
+    { id: 2, image: "/client2.jpg" },
+    { id: 3, image: "/client3.jpg" },
+    { id: 4, image: "/client4.jpg" },
   ];
 
 const Clients = () => {

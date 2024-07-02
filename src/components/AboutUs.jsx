@@ -1,6 +1,7 @@
 import React from 'react';
 import { FaPhoneSquareAlt } from "react-icons/fa";
 
+
 const AboutUs = () => {
   return (
     <div className='flex flex-col lg:flex-row gap-6 px-4 mt-6 w-full'>
@@ -41,7 +42,7 @@ const AboutUs = () => {
         </div>
       </div>
       <div className='lg:w-2/5 flex justify-center items-center'>
-        <img src="../../public/about.jpg" alt="about-image" className='w-full h-auto object-cover rounded-lg shadow-lg lg:w-4/5' />
+        <img src="/about.jpg" alt="about-image" className='w-full h-auto object-cover rounded-lg shadow-lg lg:w-4/5' />
       </div>
     </div>
   );
