@@ -11,14 +11,14 @@ import Clients from '../components/Clients';
 
 const slides = [
     {
-      image: '../../public/carousel-1.jpg',
+      image: '/carousel-1.jpg',
       caption: {
         line1:'TRANSFORM YOUR BUSINESS WITH THE LEADING IT COMPANY IN NOIDA',
         line2:'Expert IT Solutions, Exceptional Results'
       }
     },
     {
-      image: '../../public/carousel-2.jpg',
+      image: '/carousel-2.jpg',
       caption: {
         line1:'THE BEST IT COMPANY IN NOIDA: EXPERT SOLUTIONS FOR YOUR BUSINESS',
         line2:'Custom IT Solutions and Software Services - KDIPL'
